@@ -1,6 +1,6 @@
 <template>
-    <h1 class="title">О шаблоне</h1>
-    <h2>В этом шаблоне:</h2>
+    <h1 class="title">О приложении</h1>
+    <h2>В этом приложении:</h2>
     <ul class="content__u__list">
         <li>Полная настройка шаблона на Vue + Vite</li>
         <li>Установка и настройка Vue-router для Vue.js 3</li>

@@ -10,8 +10,8 @@ export const site = {
 };
 
 export const app = {
-    title: "Шаблон проекта Vue.js",
-    description: "Сделаем 1 раз, потом будет работать проще...",
+    title: "B-model SMS",
+    description: "Приложение для обмена короткими сообщениями",
     version: version,
 };
 
@@ -22,7 +22,7 @@ export const links = [
         url: "/",
     },
     {
-        title: "О шаблоне",
+        title: "О приложении",
         alias: "about",
         url: "/about",
     },
